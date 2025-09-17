@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o Thalles!
 
-Desenvolvedor Backend e estudante de Análise e Desenvolvimento de Sistemas (IFRS) com foco no ecossistema JavaScript. Tenho me especializado na construção de APIs RESTful robustas e escaláveis com **Node.js, Express e MongoDB**, aplicando conceitos de arquitetura em camadas e as melhores práticas de design. Atualmente, sou estagiário na **Compass UOL**, onde exploro ativamente o universo de **Open Finance** e tecnologias de nuvem como **AWS**. Com uma base sólida em Java e PostgreSQL, estou sempre em busca de oportunidades para contribuir em projetos desafiadores e construir soluções de alta performance, especialmente no setor de FinTechs.
+Desenvolvedor Backend e estudante de Análise e Desenvolvimento de Sistemas (IFRS) com foco no ecossistema JavaScript. Tenho me especializado no desenvolvimento de soluções backend robustas e escaláveis com **Node.js, Express e MongoDB**, aplicando conceitos de arquitetura em camadas e as melhores práticas de design. Atualmente, sou estagiário na **Compass UOL**, onde ativamente exploro conteúdos de **Open Finance** e tecnologias de nuvem como **AWS**. Com uma base sólida em Java e PostgreSQL, sou motivado por desafios técnicos e busco aplicar minhas habilidades na criação de soluções inovadoras que gerem impacto real, e vejo no universo de Open Finance a oportunidade ideal para isso.
 
 ---
 
